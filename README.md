@@ -38,6 +38,9 @@ Instale a biblioteca watchdog para que o bot Python funcione corretamente:
    ```bash
  pip install watchdog
 
+Instale nodejs
+
+apt install nodejs
 
 Configuração do E-mail: Abra o arquivo BOT9.py e substitua as variáveis sender_email e sender_password com suas próprias credenciais do Gmail:
 
