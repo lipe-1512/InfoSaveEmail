@@ -1,5 +1,5 @@
 # InfoSaveEmail
-
+![InfoSaveEmail](InfoSaveEmail.gif)
 Este projeto consiste em três componentes principais para gerenciamento automatizado de dados e envio de e-mails:
 
 1. **Bot Python para Envio de E-mails**
