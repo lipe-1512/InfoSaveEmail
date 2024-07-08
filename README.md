@@ -59,4 +59,4 @@ No terminal, execute o seguinte comando para iniciar o bot Python: python BOT9.p
 Executar o Bot  Node.js:   lixo.js limpará automaticamente o arquivo DB.txt na pasta /storage/emulated/0/Download após 10 segundos de sua criação.
 
 ## TODO ENVIO DE DADOS POR  HTML
-
+![InfoSaveEmail](InfoSaveEmail.gif)
